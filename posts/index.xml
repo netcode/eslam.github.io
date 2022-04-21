@@ -21,5 +21,16 @@
 Although the documentation state that &amp;ldquo;The vm module is not a security mechanism.</description>
     </item>
     
+    <item>
+      <title>Practical Exploitation of Error Based Sql Injection</title>
+      <link>http://eslam.io/posts/practical-exploitation-of-error-based-sql-injection/</link>
+      <pubDate>Mon, 20 Feb 2017 15:43:48 +0800</pubDate>
+      
+      <guid>http://eslam.io/posts/practical-exploitation-of-error-based-sql-injection/</guid>
+      <description>Hi everybody I don’t post much write-ups online because most of the work done privately and under NDA.
+But this time i decided to publish this (anonymously after website owner agreed ) because too many developers insists that you can’t exploit complicated SQL , or non result SQL (example: count(*) sql).
+ Note: You can automate everything in this article using SQLMap, but i choose to exploit it manually to explain under the hood proccess.</description>
+    </item>
+    
   </channel>
 </rss>
