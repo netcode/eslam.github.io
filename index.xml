@@ -22,6 +22,16 @@ Although the documentation state that &amp;ldquo;The vm module is not a security
     </item>
     
     <item>
+      <title>SSRF vulnerability in Uppy, Detected by Shieldfy</title>
+      <link>http://eslam.io/posts/uppy-js-ssrf-vulnerability/</link>
+      <pubDate>Tue, 03 Mar 2020 09:47:06 +0200</pubDate>
+      
+      <guid>http://eslam.io/posts/uppy-js-ssrf-vulnerability/</guid>
+      <description>In this post, we will explain how Shieldfy detected an SSRF ( Server-side request forgery ) vulnerability in Uppy, one of the popular packages in NPM, diving into the technical details of the vulnerability, exploitation and the fix.
+Uppy is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader. Uppy has more than 130,000 downloads a month.</description>
+    </item>
+    
+    <item>
       <title>Practical Exploitation of Error Based Sql Injection</title>
       <link>http://eslam.io/posts/practical-exploitation-of-error-based-sql-injection/</link>
       <pubDate>Mon, 20 Feb 2017 15:43:48 +0800</pubDate>

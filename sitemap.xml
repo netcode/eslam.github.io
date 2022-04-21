@@ -17,6 +17,12 @@
     <loc>http://eslam.io/posts/unsecure-node-vm/</loc>
     <lastmod>2020-11-22T09:47:06+02:00</lastmod>
   </url><url>
+    <loc>http://eslam.io/tags/ssrf/</loc>
+    <lastmod>2020-03-03T09:47:06+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/posts/uppy-js-ssrf-vulnerability/</loc>
+    <lastmod>2020-03-03T09:47:06+02:00</lastmod>
+  </url><url>
     <loc>http://eslam.io/categories/</loc>
     <lastmod>2020-08-13T15:43:48+08:00</lastmod>
   </url><url>
