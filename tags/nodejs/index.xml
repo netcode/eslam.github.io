@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2020 09:47:06 +0200</lastBuildDate><atom:link href="http://eslam.io/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 22:57:49 +0200</lastBuildDate><atom:link href="http://eslam.io/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EJS, Server side template injection RCE (CVE-2022-29078) - writeup</title>
+      <link>http://eslam.io/posts/ejs-server-side-template-injection-rce/</link>
+      <pubDate>Sat, 23 Apr 2022 22:57:49 +0200</pubDate>
+      
+      <guid>http://eslam.io/posts/ejs-server-side-template-injection-rce/</guid>
+      <description>Note: The objective of this research or any similar researches is to improve the nodejs ecosystem security level.
+ Recently i was working on a related project using one of the most popular Nodejs templating engines Embedded JavaScript templates - EJS
+In my weekend i started to have a look around to see if the library is vulnerable to server side template injection. Since the library is open source we can have a whitebox approach and look at the source code.</description>
+    </item>
+    
     <item>
       <title>The unsecure node vm module</title>
       <link>http://eslam.io/posts/unsecure-node-vm/</link>

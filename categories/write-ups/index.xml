@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ~#whoami &lt;Eslam Salem&gt;</title>
-    <link>http://eslam.io/posts/</link>
-    <description>Recent content in Posts on ~#whoami &lt;Eslam Salem&gt;</description>
+    <title>Write-ups on ~#whoami &lt;Eslam Salem&gt;</title>
+    <link>http://eslam.io/categories/write-ups/</link>
+    <description>Recent content in Write-ups on ~#whoami &lt;Eslam Salem&gt;</description>
     <image>
       <url>https://avatars.githubusercontent.com/u/286371?v=4</url>
       <link>https://avatars.githubusercontent.com/u/286371?v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Apr 2022 22:57:49 +0200</lastBuildDate><atom:link href="http://eslam.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 22:57:49 +0200</lastBuildDate><atom:link href="http://eslam.io/categories/write-ups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EJS, Server side template injection RCE (CVE-2022-29078) - writeup</title>
       <link>http://eslam.io/posts/ejs-server-side-template-injection-rce/</link>
@@ -20,16 +20,6 @@
       <description>Note: The objective of this research or any similar researches is to improve the nodejs ecosystem security level.
  Recently i was working on a related project using one of the most popular Nodejs templating engines Embedded JavaScript templates - EJS
 In my weekend i started to have a look around to see if the library is vulnerable to server side template injection. Since the library is open source we can have a whitebox approach and look at the source code.</description>
-    </item>
-    
-    <item>
-      <title>The unsecure node vm module</title>
-      <link>http://eslam.io/posts/unsecure-node-vm/</link>
-      <pubDate>Sun, 22 Nov 2020 09:47:06 +0200</pubDate>
-      
-      <guid>http://eslam.io/posts/unsecure-node-vm/</guid>
-      <description>As any nodejs developer you should often check the nodejs documentation look for new modules or new features or even a change in the current API. If you do you will notice a module called &amp;ldquo;VM&amp;rdquo; (Executing Javascript). This is a very interesting module as per nodejs documentation defination &amp;ldquo;The vm module enables compiling and running code within V8 Virtual Machine contexts&amp;rdquo;
-Although the documentation state that &amp;ldquo;The vm module is not a security mechanism.</description>
     </item>
     
     <item>

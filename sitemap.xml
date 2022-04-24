@@ -3,19 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://eslam.io/</loc>
-    <lastmod>2020-11-22T09:47:06+02:00</lastmod>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/categories/</loc>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/tags/cve/</loc>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/categories/cves/</loc>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/tags/ejs/</loc>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/posts/ejs-server-side-template-injection-rce/</loc>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
   </url><url>
     <loc>http://eslam.io/tags/nodejs/</loc>
-    <lastmod>2020-11-22T09:47:06+02:00</lastmod>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
   </url><url>
     <loc>http://eslam.io/posts/</loc>
-    <lastmod>2020-11-22T09:47:06+02:00</lastmod>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/tags/rce/</loc>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/tags/ssti/</loc>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
   </url><url>
     <loc>http://eslam.io/tags/</loc>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/categories/write-ups/</loc>
+    <lastmod>2022-04-23T22:57:49+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/categories/research/</loc>
     <lastmod>2020-11-22T09:47:06+02:00</lastmod>
   </url><url>
     <loc>http://eslam.io/posts/unsecure-node-vm/</loc>
     <lastmod>2020-11-22T09:47:06+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/tags/hackerone/</loc>
+    <lastmod>2020-03-03T09:47:06+02:00</lastmod>
+  </url><url>
+    <loc>http://eslam.io/tags/shieldfy/</loc>
+    <lastmod>2020-03-03T09:47:06+02:00</lastmod>
   </url><url>
     <loc>http://eslam.io/tags/ssrf/</loc>
     <lastmod>2020-03-03T09:47:06+02:00</lastmod>
@@ -23,19 +56,13 @@
     <loc>http://eslam.io/posts/uppy-js-ssrf-vulnerability/</loc>
     <lastmod>2020-03-03T09:47:06+02:00</lastmod>
   </url><url>
-    <loc>http://eslam.io/categories/</loc>
+    <loc>http://eslam.io/tags/pentesting/</loc>
     <lastmod>2020-08-13T15:43:48+08:00</lastmod>
   </url><url>
     <loc>http://eslam.io/posts/practical-exploitation-of-error-based-sql-injection/</loc>
     <lastmod>2020-08-13T15:43:48+08:00</lastmod>
   </url><url>
-    <loc>http://eslam.io/categories/security/</loc>
-    <lastmod>2020-08-13T15:43:48+08:00</lastmod>
-  </url><url>
     <loc>http://eslam.io/tags/sql-injection/</loc>
-    <lastmod>2020-08-13T15:43:48+08:00</lastmod>
-  </url><url>
-    <loc>http://eslam.io/tags/write-up/</loc>
     <lastmod>2020-08-13T15:43:48+08:00</lastmod>
   </url>
 </urlset>
