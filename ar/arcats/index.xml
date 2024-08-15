@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arcats on ~#whoami &lt;Eslam Salem&gt;</title>
+    <link>http://eslam.io/ar/arcats/</link>
+    <description>Recent content in Arcats on ~#whoami &lt;Eslam Salem&gt;</description>
+    <image>
+      <url>https://avatars.githubusercontent.com/u/286371?v=4</url>
+      <link>https://avatars.githubusercontent.com/u/286371?v=4</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language><atom:link href="http://eslam.io/ar/arcats/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -9,7 +9,7 @@
       <link>https://avatars.githubusercontent.com/u/286371?v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sat, 23 Apr 2022 22:57:49 +0200</lastBuildDate><atom:link href="http://eslam.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EJS, Server side template injection RCE (CVE-2022-29078) - writeup</title>
@@ -18,7 +18,7 @@
       
       <guid>http://eslam.io/posts/ejs-server-side-template-injection-rce/</guid>
       <description>Note: The objective of this research or any similar researches is to improve the nodejs ecosystem security level.
- Recently i was working on a related project using one of the most popular Nodejs templating engines Embedded JavaScript templates - EJS
+Recently i was working on a related project using one of the most popular Nodejs templating engines Embedded JavaScript templates - EJS
 In my weekend i started to have a look around to see if the library is vulnerable to server side template injection. Since the library is open source we can have a whitebox approach and look at the source code.</description>
     </item>
     
@@ -39,7 +39,7 @@ Although the documentation state that &amp;ldquo;The vm module is not a security
       
       <guid>http://eslam.io/posts/uppy-js-ssrf-vulnerability/</guid>
       <description>In this post, we will explain how Shieldfy detected an SSRF ( Server-side request forgery ) vulnerability in Uppy, one of the popular packages in NPM, diving into the technical details of the vulnerability, exploitation and the fix.
-Uppy is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader. Uppy has more than 130,000 downloads a month.</description>
+Uppy is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@ Uppy is a sleek, modular JavaScript file uploader that integrates seamlessly wit
       <guid>http://eslam.io/posts/practical-exploitation-of-error-based-sql-injection/</guid>
       <description>Hi everybody I don’t post much write-ups online because most of the work done privately and under NDA.
 But this time i decided to publish this (anonymously after website owner agreed ) because too many developers insists that you can’t exploit complicated SQL , or non result SQL (example: count(*) sql).
- Note: You can automate everything in this article using SQLMap, but i choose to exploit it manually to explain under the hood proccess.</description>
+Note: You can automate everything in this article using SQLMap, but i choose to exploit it manually to explain under the hood proccess.</description>
     </item>
     
   </channel>

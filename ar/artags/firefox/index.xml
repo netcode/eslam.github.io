@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Firefox on ~#whoami &lt;Eslam Salem&gt;</title>
+    <link>http://localhost:1313/ar/artags/firefox/</link>
+    <description>Recent content in Firefox on ~#whoami &lt;Eslam Salem&gt;</description>
+    <image>
+      <url>https://avatars.githubusercontent.com/u/286371?v=4</url>
+      <link>https://avatars.githubusercontent.com/u/286371?v=4</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <lastBuildDate>Thu, 27 Nov 2014 09:47:06 +0200</lastBuildDate><atom:link href="http://localhost:1313/ar/artags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>تحليل تروجان الفايرفوكس Trojan-PWS-Nslog</title>
+      <link>http://localhost:1313/ar/posts/arabic/trojan-pws-nslog-firefox-trojan-analyze/</link>
+      <pubDate>Thu, 27 Nov 2014 09:47:06 +0200</pubDate>
+      
+      <guid>http://localhost:1313/ar/posts/arabic/trojan-pws-nslog-firefox-trojan-analyze/</guid>
+      <description>بسم الله الرحمن الرحيم
+التروجان كأي ملف حصان طروادة آخر يدخل على الجهاز بأي طريقة سواء كان عن طريق ملف مصاب أو رسالة إلكترونية أو غيرها من الطرق
+يقوم فى البداية بنسخ نفسه إلى المجلد system32 بالإسم kernel.exe كنوع من التخفي يقوم التروجان بتهيئة نفسه عن طريق إضافة الأداة التي يستخدمها Microsoft Internet Transfer (msinet.ocx) – و هذا يثبت أن التروجان على الأغلب مكتوب بالفيجوال بيسيك 6
+يقوم التروجان بإضافة مستخدم جديد على النظام المصاب بإسم Maestro</description>
+    </item>
+    
+    <item>
+      <title>كل ما تريد ان تعرفة عن ال SQL Injection</title>
+      <link>http://localhost:1313/ar/posts/arabic/sqlinjection-quick/</link>
+      <pubDate>Thu, 27 Nov 2014 09:47:06 +0200</pubDate>
+      
+      <guid>http://localhost:1313/ar/posts/arabic/sqlinjection-quick/</guid>
+      <description>بسم الله الرحمن الرحيم
+ال sql injection هو حقن كود معين فى مدخلات البرنامج ليتم تنفيذه على مستوى قاعدة البيانات ليتم الحصول على معلومات من قاعدة البيانات غير مصرح بها أو التلاعب بمحتويات قاعدة البيانات
+ال SQL Injection ينتج عن ضعف إما فى طبقة التطبيق سواء كان PHP أو ASP …. أو فى طبقة قاعدة البيانات كالثغرة التى ظهرت على يد Josh Berkus و Tom Lane فى الدالة الخاصة بال ماي سكول mysql_real_escape_string و التى يستخدمها مطوري التطبيقات التى تعتمد على قاعدة بيانات Mysql لفلترة المدخلات قبل إدخالها لقاعدة البيانات , حيث إكتشف المطوران خلل فى فلترة هذا الدالة للمدخلات اليونيكود مما يتيح للمخترق تجاوزها – تم إصلاح هذا الخطأ فى النسخة 5.</description>
+    </item>
+    
+  </channel>
+</rss>

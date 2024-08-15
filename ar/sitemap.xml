@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://eslam.io/ar/</loc>
+    <lastmod>2014-11-27T09:47:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://eslam.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://eslam.io/ar/"
+                />
+  </url><url>
+    <loc>http://eslam.io/ar/posts/</loc>
+    <lastmod>2014-11-27T09:47:06+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://eslam.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://eslam.io/ar/posts/"
+                />
+  </url><url>
+    <loc>http://eslam.io/ar/arcats/</loc>
+  </url><url>
+    <loc>http://eslam.io/ar/arseries/</loc>
+  </url><url>
+    <loc>http://eslam.io/ar/artags/</loc>
+  </url>
+</urlset>

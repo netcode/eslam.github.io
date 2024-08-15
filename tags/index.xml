@@ -9,10 +9,10 @@
       <link>https://avatars.githubusercontent.com/u/286371?v=4</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sat, 23 Apr 2022 22:57:49 +0200</lastBuildDate><atom:link href="http://eslam.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cve</title>
+      <title>Cve</title>
       <link>http://eslam.io/tags/cve/</link>
       <pubDate>Sat, 23 Apr 2022 22:57:49 +0200</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>ejs</title>
+      <title>Ejs</title>
       <link>http://eslam.io/tags/ejs/</link>
       <pubDate>Sat, 23 Apr 2022 22:57:49 +0200</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>nodejs</title>
+      <title>Nodejs</title>
       <link>http://eslam.io/tags/nodejs/</link>
       <pubDate>Sat, 23 Apr 2022 22:57:49 +0200</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>rce</title>
+      <title>Rce</title>
       <link>http://eslam.io/tags/rce/</link>
       <pubDate>Sat, 23 Apr 2022 22:57:49 +0200</pubDate>
       
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>ssti</title>
+      <title>Ssti</title>
       <link>http://eslam.io/tags/ssti/</link>
       <pubDate>Sat, 23 Apr 2022 22:57:49 +0200</pubDate>
       
@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>hackerone</title>
+      <title>Hackerone</title>
       <link>http://eslam.io/tags/hackerone/</link>
       <pubDate>Tue, 03 Mar 2020 09:47:06 +0200</pubDate>
       
@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>shieldfy</title>
+      <title>Shieldfy</title>
       <link>http://eslam.io/tags/shieldfy/</link>
       <pubDate>Tue, 03 Mar 2020 09:47:06 +0200</pubDate>
       
@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>ssrf</title>
+      <title>Ssrf</title>
       <link>http://eslam.io/tags/ssrf/</link>
       <pubDate>Tue, 03 Mar 2020 09:47:06 +0200</pubDate>
       
